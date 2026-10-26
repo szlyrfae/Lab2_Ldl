@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab2_Ldl</string>
+    <string name="hint_name">Enter your name</string>
+    <string name="hint_age">Enter your age</string>
+    <string name="btn_profile">Open Profile</string>
+    <string name="btn_web">Open Google</string>
+    <string name="btn_sharing">Text Sharing</string>
+    <string name="label_display_name">Name:</string>
+    <string name="label_display_age">Age:</string>
+    <string name="error_empty">Enter your input</string>
+</resources>
